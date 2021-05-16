@@ -4,12 +4,12 @@
 String searching failure function for JavaScript.
 See [docs](https://string-data-structure.github.io/failure-function/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
-> :warning: Depending on your environment, the code may require
-> `regeneratorRuntime` to be defined, for instance by importing
-> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+```js
+import {build} from '@string-data-structure/failure-function';
+const s = 'abracadabra';
+const t = new Int32Array(s.length + 1);
+build(s, 0, s.length, t, 0);
+```
 
 [![License](https://img.shields.io/github/license/string-data-structure/failure-function.svg)](https://raw.githubusercontent.com/string-data-structure/failure-function/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-data-structure/failure-function.svg)](https://www.npmjs.org/package/@string-data-structure/failure-function)
