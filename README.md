@@ -14,8 +14,7 @@ build(s, 0, s.length, t, 0);
 [![License](https://img.shields.io/github/license/string-data-structure/failure-function.svg)](https://raw.githubusercontent.com/string-data-structure/failure-function/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@string-data-structure/failure-function.svg)](https://www.npmjs.org/package/@string-data-structure/failure-function)
 [![Tests](https://img.shields.io/github/workflow/status/string-data-structure/failure-function/ci:test?event=push&label=tests)](https://github.com/string-data-structure/failure-function/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/string-data-structure/failure-function.svg)](https://david-dm.org/string-data-structure/failure-function)
-[![Dev dependencies](https://img.shields.io/david/dev/string-data-structure/failure-function.svg)](https://david-dm.org/string-data-structure/failure-function?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/string-data-structure/failure-function.svg)](https://github.com/string-data-structure/failure-function/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/string-data-structure/failure-function.svg)](https://github.com/string-data-structure/failure-function/issues)
 [![Downloads](https://img.shields.io/npm/dm/@string-data-structure/failure-function.svg)](https://www.npmjs.org/package/@string-data-structure/failure-function)
 
